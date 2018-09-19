@@ -2,7 +2,7 @@
 
 _[Machine Learning Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)_
 
-This repository includes completed homework for the course (currently 4/8 are finished, cause I am still studying).
+This repository includes completed homework for the course (currently 5/8 are finished, cause I am still studying).
 
 ### Facts about this repository
 
